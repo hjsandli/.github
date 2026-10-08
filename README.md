@@ -1,9 +1,10 @@
 <div align="center">
 
 <picture>
+  <!-- Logo Dark Mode -->
   <source media="(prefers-color-scheme: dark)" srcset="https://images.squarespace-cdn.com/content/v1/69f2f88e6ff16901d1d3083d/248911c3-7035-4b8e-8797-f3e34ae35178/logo-white-full-trans.png?format=1500w">
-  <!-- TODO: bytt ut med en mørk logo-versjon for light mode -->
-  <img alt="HJ Sandli" src="https://images.squarespace-cdn.com/content/v1/69f2f88e6ff16901d1d3083d/248911c3-7035-4b8e-8797-f3e34ae35178/logo-white-full-trans.png?format=1500w" width="420">
+  <!-- Logo Light Mode -->
+  <img alt="HJ Sandli" src="https://media.eiknode.net/api/public/dl/dbZRREg4" width="420">
 </picture>
 
 ### Digital klarhet for moderne bedrifter.
@@ -51,9 +52,9 @@ Ingen standardløsninger, ingen tungvint IT-prat. Vi setter oss inn i hvordan *d
 
 Beskriv hva du trenger – om det passer for oss å hjelpe, finner vi raskt ut av det sammen.
 
-**Nettside:** [hj-sandli.no](https://www.hj-sandli.no)
-**Kundeservice:** [Kundeportal](https://hjsandli.atlassian.net/servicedesk/customer/portal/1)
-**Fjernhjelp:** [fjernhjelp.hj-sandli.no](https://fjernhjelp.hj-sandli.no/)
+- **Nettside:** [hj-sandli.no](https://www.hj-sandli.no)
+- **Kundeservice:** [Kundeportal](https://hjsandli.atlassian.net/servicedesk/customer/portal/1)
+- **Fjernhjelp:** [fjernhjelp.hj-sandli.no](https://fjernhjelp.hj-sandli.no/)
 
 <div align="center">
 <sub>HJ Sandli · Org. nr. 921 783 299 MVA</sub>
